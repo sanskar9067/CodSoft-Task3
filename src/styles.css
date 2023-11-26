@@ -1,0 +1,19 @@
+.container{
+    margin: auto;
+    width: 50%;
+    background-color: aqua;
+}
+
+.screen{
+    background-color: aliceblue;
+    width: 600px;
+    height: 100px;
+}
+
+button{
+    width: 200px;
+    height: 75px;
+}
+.main{
+    text-align: center;
+}
